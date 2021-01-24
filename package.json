@@ -5,7 +5,7 @@
 	"repository": {
 		"url": "https://github.com/HairyOtter07/VSCodeDiscordRPC.git"
 	},
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "HairyOtter07",
 	"engines": {
 		"vscode": "^1.52.0"
